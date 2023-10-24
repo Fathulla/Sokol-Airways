@@ -1,0 +1,10 @@
+.MainPage {
+    display: flex;
+}
+.SideBar{
+    width: 20%;
+    height: 100vh;
+}
+.table{
+    width: 70%;
+}
